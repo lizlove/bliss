@@ -11,7 +11,7 @@ bliss new tab page
 
 **Background**
 
-Inspired by 'cyberchondria', the act of anxiously scouring of the Internet for information on an imagined illness or symptoms, bliss allows users to blacklist keywords that they want to refrain from Googling. Rather than restrict Internet browsing, bliss 
+Inspired by 'cyberchondria', the act of anxiously scouring of the Internet for information on an imagined illness or symptoms, bliss allows users to blacklist keywords that they want to refrain from Googling. Rather than restrict Internet browsing, bliss deters unhealthy search activity by reinforcing positive habits, namely restraint on the part of the user.
 
 **Features**
 -to come
