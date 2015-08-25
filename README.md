@@ -6,7 +6,7 @@ bliss is a Google chrome extension that replaces the new tab with page to help d
 Screenshots
 
 bliss new tab page
-![Image of bliss mainpage](https://octodex.github.com/images/yaktocat.png)
+![Image of bliss mainpage](https://github.com/lizlove/bliss/blob/master/bliss_screenshot.png)
 
 
 Background
@@ -33,4 +33,4 @@ Liz Lovero
 
 License
 
-Db NYC is MIT Licensed. See LICENSE for details.
+bliss is MIT Licensed. See LICENSE for details.
